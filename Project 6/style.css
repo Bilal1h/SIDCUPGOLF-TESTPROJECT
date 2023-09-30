@@ -641,7 +641,7 @@ footer a:hover {
   #nav #menu-icon{
     opacity: 1;
     z-index: 99999;
-    left: 180px;
+    left: 150px;
   }
   #mob-nav{
     line-height: 2.0;
